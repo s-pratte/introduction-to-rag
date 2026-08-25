@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Vibe" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Colmar Wine Bike Tour with Kaysersberg</name>
+    <desc>42 km wine-focused bike tour around Colmar, Alsace. Indoor lunch in Riquewihr 12:00-13:00 during rain window. Safe cycling routes: pistes cyclables, voies vertes, and quiet vineyard roads.</desc>
+    <author>Vibe</author>
+    <time>2026-08-25T09:30:00Z</time>
+    <bounds minlat="48.0486" minlon="7.1833" maxlat="48.1333" maxlon="7.3586"/>
+  </metadata>
+  <trk>
+    <name>Colmar Wine Tour with Kaysersberg</name>
+    <desc>Full route: Colmar -> Turckheim -> Wintzenheim -> Eguisheim -> Hunawihr -> Riquewihr (lunch) -> Kaysersberg -> Colmar</desc>
+    <trkseg>
+      <trkpt lat="48.0782" lon="7.3586">
+        <ele>210</ele>
+        <name>Colmar Start - Petite Venise</name>
+        <desc>Departure point. Follow Véloroute du Vignoble signs west.</desc>
+        <time>2026-08-25T09:30:00Z</time>
+      </trkpt>
+      <trkpt lat="48.0567" lon="7.2778">
+        <ele>200</ele>
+        <name>Turckheim</name>
+        <desc>Arrive ~10:00. Tasting: Caveau Municipal de Turckheim (walk-in). Explore medieval gates.</desc>
+        <time>2026-08-25T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="48.0736" lon="7.2478">
+        <ele>198</ele>
+        <name>Wintzenheim</name>
+        <desc>Arrive ~10:45. Tasting: Domaine Schlumberger (walk-in).</desc>
+        <time>2026-08-25T10:45:00Z</time>
+      </trkpt>
+      <trkpt lat="48.0486" lon="7.2333">
+        <ele>190</ele>
+        <name>Eguisheim</name>
+        <desc>Arrive ~11:30. One of France's Plus Beaux Villages. Circular streets, half-timbered houses.</desc>
+        <time>2026-08-25T11:30:00Z</time>
+      </trkpt>
+      <trkpt lat="48.0653" lon="7.2000">
+        <ele>185</ele>
+        <name>Hunawihr</name>
+        <desc>Arrive ~11:45. Tasting: Domaine Allimant-Laugner (walk-in). Stork park nearby.</desc>
+        <time>2026-08-25T11:45:00Z</time>
+      </trkpt>
+      <trkpt lat="48.0828" lon="7.1833">
+        <ele>180</ele>
+        <name>Riquewihr</name>
+        <desc>Arrive ~12:00. LUNCH 12:00-13:00: Le Cerf or Wistub Brenner (indoor). Medieval walled village. Tasting: Dopff au Moulin or Caveau des Vignerons (walk-in).</desc>
+        <time>2026-08-25T12:00:00Z</time>
+      </trkpt>
+      <trkpt lat="48.1333" lon="7.2667">
+        <ele>165</ele>
+        <name>Kaysersberg</name>
+        <desc>Arrive ~14:15. Explore + tasting: Domaine Paul Blanck (walk-in). Historic castle ruins.</desc>
+        <time>2026-08-25T14:15:00Z</time>
+      </trkpt>
+      <trkpt lat="48.0782" lon="7.3586">
+        <ele>210</ele>
+        <name>Colmar End - Petite Venise</name>
+        <desc>Arrive by 16:00. Buffer time for photos or final tasting.</desc>
+        <time>2026-08-25T16:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
